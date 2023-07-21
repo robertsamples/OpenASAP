@@ -66,7 +66,7 @@ The APCI settings may need to be adjusted based on the analyte and instrument be
 
 ### Sampling
 
-[![Watch the video](_Video of a 30 second acquisition with a previous vesion of the OpenASAP probe_)](https://github.com/robertsamples/OpenASAP/blob/main/media/14.mp4)
+[![Watch the video](_Video of a 30 second acquisition with a previous vesion of the OpenASAP probe_)](https://github.com/robertsamples/OpenASAP/assets/64489385/52e8197a-4d4a-41fe-b455-a457a1216c5c)
 
 _Video of a 30 second acquisition with a previous vesion of the OpenASAP probe_
 
