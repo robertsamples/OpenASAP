@@ -4,6 +4,11 @@ An Open Source 3D printed Atmospheric Solids Analysis Probe
 
 <img src="https://github.com/robertsamples/OpenASAP/blob/main/media/1.png" width="520" height="720">
 
+## Video Tutorial
+
+Click the preview to view the video tutorial and demonstration
+
+[<img src="https://i.ytimg.com/vi/MM99iZ1kHVs/sddefault.jpg" width="50%">](https://www.youtube.com/watch?v=MM99iZ1kHVs "OpenASAP Tutorial")
 
 ## Material selection
 ### Resin
